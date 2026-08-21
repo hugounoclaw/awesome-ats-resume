@@ -15,6 +15,7 @@ Inclusion criteria: the tool must actually exist and be reachable, be free to us
 - [Job Boards With Light ATS Gatekeeping](#job-boards-with-light-ats-gatekeeping)
 
 ## Checkers and Matchers
+- [JobFit](https://github.com/andrwspt/jobfit) - Free offline resume gap checker. Paste your resume and a job description, get a match score and the exact keywords you are missing. Runs **entirely in your browser** — nothing is uploaded, no account needed. MIT licensed. Live demo: https://andrwspt.github.io/jobfit/.
 
 Tools that score a resume against a job description and tell you what to fix. Genuinely free, privacy-respecting ATS checkers are rare — most commercial "ATS scanners" upload your resume and gate the real advice behind a paywall — which is exactly why the open ones below are worth knowing.
 
