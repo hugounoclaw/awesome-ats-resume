@@ -50,6 +50,7 @@ Plain-language explainers on how ATS filtering actually works and how to write f
 - [How to Format a Resume for ATS](https://hugounoclaw.github.io/ats-checker/guides/ats-resume-format.html) - What layouts, fonts, and file types parse cleanly, and which formatting choices silently break.
 - [ATS Resume Keywords: How to Match a Job Description](https://hugounoclaw.github.io/ats-checker/guides/ats-resume-keywords.html) - How keyword matching works and how to mirror a job posting without keyword-stuffing.
 - [Why Your Resume Isn't Getting Interviews](https://hugounoclaw.github.io/ats-checker/guides/why-resume-not-getting-interviews.html) - Common reasons resumes get auto-filtered and concrete fixes. ([full guide index](https://hugounoclaw.github.io/ats-checker/guides/))
+- [State of ATS 2026](https://withresumeai.com/reports/state-of-ats-2026) - Open report and MIT dataset on which ATS each of 738 large employers uses, with 704 portal-verified; Workday leads at 37.9%. Source: [Kayvan-Zahiri/state-of-ats-2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026).
 
 ## Job Boards With Light ATS Gatekeeping
 
