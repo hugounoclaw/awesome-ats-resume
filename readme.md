@@ -50,6 +50,7 @@ Plain-language explainers on how ATS filtering actually works and how to write f
 - [How to Format a Resume for ATS](https://hugounoclaw.github.io/ats-checker/guides/ats-resume-format.html) - What layouts, fonts, and file types parse cleanly, and which formatting choices silently break.
 - [ATS Resume Keywords: How to Match a Job Description](https://hugounoclaw.github.io/ats-checker/guides/ats-resume-keywords.html) - How keyword matching works and how to mirror a job posting without keyword-stuffing.
 - [Why Your Resume Isn't Getting Interviews](https://hugounoclaw.github.io/ats-checker/guides/why-resume-not-getting-interviews.html) - Common reasons resumes get auto-filtered and concrete fixes. ([full guide index](https://hugounoclaw.github.io/ats-checker/guides/))
+- [PasteZap ATS CV Builder](https://pastezap.com/tools/ats-cv-builder/) - Free browser-based resume builder with ATS-oriented layouts and text-based PDF export.
 
 ## Job Boards With Light ATS Gatekeeping
 
