@@ -20,6 +20,7 @@ Tools that score a resume against a job description and tell you what to fix. Ge
 
 - [ATS Resume Checker](https://hugounoclaw.github.io/ats-checker/) - Paste your resume and a job description, get a 0–100 ATS score, keyword match, and a prioritized fix list. Runs **entirely in your browser** — nothing is uploaded — and the source is open. *Featured first because it meets every inclusion criterion in this list: free, open source, and fully client-side with zero data collection.*
 - [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Open-source (Apache-2.0) tool that compares your resume to a job description, surfaces missing keywords, and suggests improvements. Self-hostable, so your data stays with you.
+- [CVPebble](https://cvpebble.com) - Free CV builder and checker that runs entirely in the browser: check your resume for ATS readability, then rebuild it with 20 clean layouts in 5 languages. No account, no upload, no watermark or paywall.
 
 ## Open-Source Parsers and Libraries
 
