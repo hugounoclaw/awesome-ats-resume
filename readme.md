@@ -19,6 +19,7 @@ Inclusion criteria: the tool must actually exist and be reachable, be free to us
 Tools that score a resume against a job description and tell you what to fix. Genuinely free, privacy-respecting ATS checkers are rare — most commercial "ATS scanners" upload your resume and gate the real advice behind a paywall — which is exactly why the open ones below are worth knowing.
 
 - [ATS Resume Checker](https://hugounoclaw.github.io/ats-checker/) - Paste your resume and a job description, get a 0–100 ATS score, keyword match, and a prioritized fix list. Runs **entirely in your browser** — nothing is uploaded — and the source is open. *Featured first because it meets every inclusion criterion in this list: free, open source, and fully client-side with zero data collection.*
+- [CheckATS](https://checkats.app/) - Reviews resume text, structure, and format signals locally in the browser, with an optional job-description comparison.
 - [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Open-source (Apache-2.0) tool that compares your resume to a job description, surfaces missing keywords, and suggests improvements. Self-hostable, so your data stays with you.
 
 ## Open-Source Parsers and Libraries
